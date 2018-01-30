@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\bin\Release\Scaleminer.exe.config
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\bin\Release\Scaleminer.exe
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\bin\Release\Scaleminer.exe.CodeAnalysisLog.xml
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\bin\Release\Scaleminer.exe.lastcodeanalysissucceeded
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\bin\Release\Scaleminer.Client.dll
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\bin\Release\Newtonsoft.Json.pdb
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\bin\Release\Scaleminer.Client.pdb
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\obj\Release\Scaleminer.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\obj\Release\Scaleminer.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer\obj\Release\Scaleminer.exe
