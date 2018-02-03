@@ -13,3 +13,10 @@ C:\Users\User\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\obj\Release\Newtonsoft
 C:\Users\User\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\obj\Release\Newtonsoft.Json.csproj.CoreCompileInputs.cache
 C:\Users\User\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\obj\Release\Newtonsoft.Json.dll
 C:\Users\User\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\obj\Release\Newtonsoft.Json.pdb
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.xml
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.dll
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.pdb
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\obj\Release\Newtonsoft.Json.csprojResolveAssemblyReference.cache
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\obj\Release\Newtonsoft.Json.csproj.CoreCompileInputs.cache
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\obj\Release\Newtonsoft.Json.dll
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Newtonsoft.Json\obj\Release\Newtonsoft.Json.pdb

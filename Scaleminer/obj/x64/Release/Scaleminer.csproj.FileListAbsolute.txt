@@ -1,0 +1,9 @@
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer\bin\x64\Release\Scaleminer.exe.config
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer\bin\x64\Release\Scaleminer.exe
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer\bin\x64\Release\Scaleminer.Client.dll
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer\bin\x64\Release\Newtonsoft.Json.pdb
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer\bin\x64\Release\Scaleminer.Client.pdb
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer\obj\x64\Release\Scaleminer.csproj.CoreCompileInputs.cache
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer\obj\x64\Release\Scaleminer.exe

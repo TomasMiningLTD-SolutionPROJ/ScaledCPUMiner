@@ -9,3 +9,12 @@ C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer.Client\obj\Release\Scalemin
 C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer.Client\obj\Release\Scaleminer.Client.csproj.CoreCompileInputs.cache
 C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer.Client\obj\Release\Scaleminer.Client.dll
 C:\Users\User\Source\Repos\ScaledCPUMiner\Scaleminer.Client\obj\Release\Scaleminer.Client.pdb
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer.Client\bin\Release\Scaleminer.Client.dll
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer.Client\bin\Release\Scaleminer.Client.pdb
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer.Client\bin\Release\Newtonsoft.Json.dll
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer.Client\bin\Release\Newtonsoft.Json.pdb
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer.Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer.Client\obj\Release\Scaleminer.Client.csprojResolveAssemblyReference.cache
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer.Client\obj\Release\Scaleminer.Client.csproj.CoreCompileInputs.cache
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer.Client\obj\Release\Scaleminer.Client.dll
+C:\Users\tlev4\Source\Repos\ScaledCPUMiner\Scaleminer.Client\obj\Release\Scaleminer.Client.pdb
